@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=c0st&color=lightgrey&label=Guests)
+![](https://komarev.com/ghpvc/?username=c0st&color=lightgrey&label=Visitors)
